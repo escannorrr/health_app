@@ -1,4 +1,4 @@
-# WorkoutFlex - Exercise Timer App
+# Health App
 
 A simple Flutter exercise application that allows users to browse workouts, view details, and track their progress with timers.
 
