@@ -108,8 +108,12 @@ Shared Preferences is used to store:
 * Last workout date for tracking continuous days
 
 ## Screenshots
-![Screenshot_20250519_160538](https://github.com/user-attachments/assets/6e1cc3d1-8f0b-40e1-bd37-7a3023689e48)![Screenshot_20250519_160435](https://github.com/user-attachments/assets/8996c1d0-9391-4914-9a6c-9fdb52c77077)
-![Screenshot_20250519_160448](https://github.com/user-attachments/assets/92d8d8ba-15e2-4a4d-be40-4b591e0c55cc)![Screenshot_20250519_160559](https://github.com/user-attachments/assets/77117ce3-ca51-4b38-b653-48d57c40a992)
+<p float="left">
+  <img src="https://github.com/user-attachments/assets/6e1cc3d1-8f0b-40e1-bd37-7a3023689e48" width="250"/>
+  <img src="https://github.com/user-attachments/assets/8996c1d0-9391-4914-9a6c-9fdb52c77077" width="250"/>
+  <img src="https://github.com/user-attachments/assets/92d8d8ba-15e2-4a4d-be40-4b591e0c55cc" width="250"/>
+  <img src="https://github.com/user-attachments/assets/77117ce3-ca51-4b38-b653-48d57c40a992" width="250"/>
+</p>
 
 ## Future Improvements
 
